@@ -1,3 +1,4 @@
+import { Commune } from "./commune";
 
 export enum Candidat {};
 export enum Mandat {};
@@ -11,4 +12,5 @@ export class Parrain {
     Mandat: "Maire"
     Nom: string;
     Prenom: string;
+    Commune?: Commune;
 }

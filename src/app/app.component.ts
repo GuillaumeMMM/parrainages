@@ -1,5 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import data from '../../../data/parrainagestotal.json';
+/* import data from '../../../data/parrainagestotal.json';
+import { Parrain } from './models/parrain'; */
+import { DataService } from './services/data.service';
+/* import communes from '../../../data/communes.json';
+import { Commune } from './models/commune'; */
+import parrainages from '../../../data/parrainagesS.json';
 import { Parrain } from './models/parrain';
 
 @Component({
@@ -12,8 +17,11 @@ export class AppComponent implements OnInit {
 
   public metaJSONStr: string;
 
+  constructor(private dataService: DataService) {
+  }
+
   ngOnInit() {
-    console.log('init', data);
+    /* console.log('init', data);
     const parrains: Parrain[] = data as any;
     const mandats: Set<string> = new Set();
     const candidats: Set<string> = new Set();
@@ -21,8 +29,13 @@ export class AppComponent implements OnInit {
       mandats.add(parrain.Mandat);
       candidats.add(parrain.Candidat);
     });
-    this.metaJSONStr = encodeURIComponent(JSON.stringify({mandats: Array.from(mandats), candidats: Array.from(candidats)}));
+    this.metaJSONStr = encodeURIComponent(JSON.stringify({mandats: Array.from(mandats), candidats: Array.from(candidats)})); */
+/* 
+    const parrains: Parrain[] = (data as Parrain[]).filter(parrain => parrain.Mandat === 'Maire');
+    const parrainsWithCommune: Parrain[] = this.dataService.addCommunesInfo(parrains, communes as Commune[]);
 
-    console.log(mandats, candidats)
+    console.log(JSON.stringify(parrainsWithCommune.filter(parrain => !!parrain.Commune))) */
+
+    console.log(parrainages)
   }
 }
