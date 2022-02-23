@@ -4,7 +4,7 @@ import { Parrain } from './models/parrain'; */
 import { DataService } from './services/data.service';
 /* import communes from '../../../data/communes.json';
 import { Commune } from './models/commune'; */
-import parrainages from '../../../data/parrainagesS.json';
+import parrainages from '../assets/parrainagesS.json';
 import { Parrain } from './models/parrain';
 
 @Component({

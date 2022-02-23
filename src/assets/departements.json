@@ -1,0 +1,842 @@
+[
+  {
+    "DeptNum": "2A",
+    "Nom": "Palais Lantivy",
+    "Commune": "Ajaccio",
+    "DeptNom": "Corse-du-Sud",
+    "LatDD": 41.91972222222222,
+    "LonDD": 8.73611111111111
+  },
+  {
+    "DeptNum": "2B",
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bastia",
+    "DeptNom": "Haute-Corse",
+    "LatDD": 42.70361111111111,
+    "LonDD": 9.447777777777778
+  },
+  {
+    "DeptNum": 1,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bourg-en-Bresse",
+    "DeptNom": "Ain",
+    "LatDD": 46.2025,
+    "LonDD": 5.221944444444444
+  },
+  {
+    "DeptNum": 2,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Laon",
+    "DeptNom": "Aisne",
+    "LatDD": 49.562222222222225,
+    "LonDD": 3.6225
+  },
+  {
+    "DeptNum": 3,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Moulins",
+    "DeptNom": "Allier",
+    "LatDD": 46.568333333333335,
+    "LonDD": 3.334444444444444
+  },
+  {
+    "DeptNum": 4,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Digne-les-Bains",
+    "DeptNom": "Alpes-de-Haute-Provence",
+    "LatDD": 44.09222222222222,
+    "LonDD": 6.238055555555555
+  },
+  {
+    "DeptNum": 5,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Gap",
+    "DeptNom": "Hautes-Alpes",
+    "LatDD": 44.5575,
+    "LonDD": 6.076111111111111
+  },
+  {
+    "DeptNum": 6,
+    "Nom": "Palais des ducs de Savoie",
+    "Commune": "Nice",
+    "DeptNom": "Alpes-Maritimes",
+    "LatDD": 43.69638888888889,
+    "LonDD": 7.275
+  },
+  {
+    "DeptNum": 7,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Privas",
+    "DeptNom": "Ardèche",
+    "LatDD": 44.735277777777775,
+    "LonDD": 4.599444444444444
+  },
+  {
+    "DeptNum": 8,
+    "Nom": "École royale du génie de Mézières",
+    "Commune": "Charleville-Mézières",
+    "DeptNom": "Ardennes",
+    "LatDD": 49.76138888888889,
+    "LonDD": 4.72
+  },
+  {
+    "DeptNum": 9,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Foix",
+    "DeptNom": "Ariège",
+    "LatDD": 42.96722222222222,
+    "LonDD": 1.605833333333333
+  },
+  {
+    "DeptNum": 10,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Troyes",
+    "DeptNom": "Aube",
+    "LatDD": 48.297777777777775,
+    "LonDD": 4.078333333333333
+  },
+  {
+    "DeptNum": 11,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Carcassonne",
+    "DeptNom": "Aude",
+    "LatDD": 43.21472222222222,
+    "LonDD": 2.353333333333333
+  },
+  {
+    "DeptNum": 12,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Rodez",
+    "DeptNom": "Aveyron",
+    "LatDD": 44.349444444444444,
+    "LonDD": 2.574722222222222
+  },
+  {
+    "DeptNum": 13,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Marseille",
+    "DeptNom": "Bouches-du-Rhône",
+    "LatDD": 43.290277777777774,
+    "LonDD": 5.38
+  },
+  {
+    "DeptNum": 14,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Caen",
+    "DeptNom": "Calvados",
+    "LatDD": 49.18,
+    "LonDD": -0.365277777777778
+  },
+  {
+    "DeptNum": 15,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Aurillac",
+    "DeptNom": "Cantal",
+    "LatDD": 44.92916666666667,
+    "LonDD": 2.446944444444445
+  },
+  {
+    "DeptNum": 16,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Angoulême",
+    "DeptNom": "Charente",
+    "LatDD": 45.645833333333336,
+    "LonDD": 0.156944444444444
+  },
+  {
+    "DeptNum": 17,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "La Rochelle",
+    "DeptNom": "Charente-Maritime",
+    "LatDD": 46.1575,
+    "LonDD": -1.157222222222222
+  },
+  {
+    "DeptNum": 18,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bourges",
+    "DeptNom": "Cher",
+    "LatDD": 47.08111111111111,
+    "LonDD": 2.395277777777778
+  },
+  {
+    "DeptNum": 19,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Tulle",
+    "DeptNom": "Corrèze",
+    "LatDD": 45.27111111111111,
+    "LonDD": 1.768888888888889
+  },
+  {
+    "DeptNum": 21,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Dijon",
+    "DeptNom": "Côte-d'Or",
+    "LatDD": 47.32461643882335,
+    "LonDD": 5.041909541769544
+  },
+  {
+    "DeptNum": 22,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Saint-Brieuc",
+    "DeptNom": "Côtes-d'Armor",
+    "LatDD": 48.51444444444444,
+    "LonDD": -2.765833333333333
+  },
+  {
+    "DeptNum": 23,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Guéret",
+    "DeptNom": "Creuse",
+    "LatDD": 46.16888888888889,
+    "LonDD": 1.869444444444444
+  },
+  {
+    "DeptNum": 24,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Périgueux",
+    "DeptNom": "Dordogne",
+    "LatDD": 45.18694444444444,
+    "LonDD": 0.725277777777778
+  },
+  {
+    "DeptNum": 25,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Besançon",
+    "DeptNom": "Doubs",
+    "LatDD": 47.23361111111111,
+    "LonDD": 6.020833333333333
+  },
+  {
+    "DeptNum": 26,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Valence",
+    "DeptNom": "Drôme",
+    "LatDD": 44.93555555555555,
+    "LonDD": 4.893611111111111
+  },
+  {
+    "DeptNum": 27,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Évreux",
+    "DeptNom": "Eure",
+    "LatDD": 49.025555555555556,
+    "LonDD": 1.1425
+  },
+  {
+    "DeptNum": 28,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Chartres",
+    "DeptNom": "Eure-et-Loir",
+    "LatDD": 48.44583333333333,
+    "LonDD": 1.481666666666667
+  },
+  {
+    "DeptNum": 29,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Quimper",
+    "DeptNom": "Finistère",
+    "LatDD": 47.99444444444445,
+    "LonDD": -4.102777777777778
+  },
+  {
+    "DeptNum": 30,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Nîmes",
+    "DeptNom": "Gard",
+    "LatDD": 43.831944444444446,
+    "LonDD": 4.363055555555555
+  },
+  {
+    "DeptNum": 31,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Toulouse",
+    "DeptNom": "Haute-Garonne",
+    "LatDD": 43.59861111111111,
+    "LonDD": 1.450277777777778
+  },
+  {
+    "DeptNum": 32,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Auch",
+    "DeptNom": "Gers",
+    "LatDD": 43.64666666666667,
+    "LonDD": 0.586388888888889
+  },
+  {
+    "DeptNum": 33,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bordeaux",
+    "DeptNom": "Gironde",
+    "LatDD": 44.8375,
+    "LonDD": -0.586666666666667
+  },
+  {
+    "DeptNum": 34,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Montpellier",
+    "DeptNom": "Hérault",
+    "LatDD": 43.611111111111114,
+    "LonDD": 3.876666666666667
+  },
+  {
+    "DeptNum": 35,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Rennes",
+    "DeptNom": "Ille-et-Vilaine",
+    "LatDD": 48.11361111111111,
+    "LonDD": -1.674444444444445
+  },
+  {
+    "DeptNum": 36,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Châteauroux",
+    "DeptNom": "Indre",
+    "LatDD": 46.81166666666667,
+    "LonDD": 1.686944444444444
+  },
+  {
+    "DeptNum": 37,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Tours",
+    "DeptNom": "Indre-et-Loire",
+    "LatDD": 47.393055555555556,
+    "LonDD": 0.691944444444444
+  },
+  {
+    "DeptNum": 38,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Grenoble",
+    "DeptNom": "Isère",
+    "LatDD": 45.18833333333333,
+    "LonDD": 5.7325
+  },
+  {
+    "DeptNum": 39,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Lons-le-Saunier",
+    "DeptNom": "Jura",
+    "LatDD": 46.67194444444444,
+    "LonDD": 5.550555555555555
+  },
+  {
+    "DeptNum": 40,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Mont-de-Marsan",
+    "DeptNom": "Landes",
+    "LatDD": 43.89333333333333,
+    "LonDD": -0.499722222222222
+  },
+  {
+    "DeptNum": 41,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Blois",
+    "DeptNom": "Loir-et-Cher",
+    "LatDD": 47.590833333333336,
+    "LonDD": 1.333888888888889
+  },
+  {
+    "DeptNum": 42,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Saint-Étienne",
+    "DeptNom": "Loire",
+    "LatDD": 45.4425,
+    "LonDD": 4.386388888888889
+  },
+  {
+    "DeptNum": 43,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Le Puy-en-Velay",
+    "DeptNom": "Haute-Loire",
+    "LatDD": 45.041111111111114,
+    "LonDD": 3.883888888888889
+  },
+  {
+    "DeptNum": 44,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Nantes",
+    "DeptNom": "Loire-Atlantique",
+    "LatDD": 47.220555555555556,
+    "LonDD": -1.553055555555555
+  },
+  {
+    "DeptNum": 45,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Orléans",
+    "DeptNom": "Loiret",
+    "LatDD": 47.90027777777778,
+    "LonDD": 1.910555555555556
+  },
+  {
+    "DeptNum": 46,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Cahors",
+    "DeptNom": "Lot",
+    "LatDD": 44.4475,
+    "LonDD": 1.442222222222222
+  },
+  {
+    "DeptNum": 47,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Agen",
+    "DeptNom": "Lot-et-Garonne",
+    "LatDD": 44.19861111111111,
+    "LonDD": 0.614722222222222
+  },
+  {
+    "DeptNum": 48,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Mende",
+    "DeptNom": "Lozère",
+    "LatDD": 44.51777777777778,
+    "LonDD": 3.498333333333333
+  },
+  {
+    "DeptNum": 49,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Angers",
+    "DeptNom": "Maine-et-Loire",
+    "LatDD": 47.46611111111111,
+    "LonDD": -0.555
+  },
+  {
+    "DeptNum": 50,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Saint-Lô",
+    "DeptNom": "Manche",
+    "LatDD": 49.11611111111111,
+    "LonDD": -1.095555555555556
+  },
+  {
+    "DeptNum": 51,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Châlons-en-Champagne",
+    "DeptNom": "Marne",
+    "LatDD": 48.95333333333333,
+    "LonDD": 4.366388888888889
+  },
+  {
+    "DeptNum": 52,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Chaumont",
+    "DeptNom": "Haute-Marne",
+    "LatDD": 48.114444444444445,
+    "LonDD": 5.140555555555555
+  },
+  {
+    "DeptNum": 53,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Laval",
+    "DeptNom": "Mayenne",
+    "LatDD": 48.069722222222225,
+    "LonDD": -0.766388888888889
+  },
+  {
+    "DeptNum": 54,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Nancy",
+    "DeptNom": "Meurthe-et-Moselle",
+    "LatDD": 48.69416666666667,
+    "LonDD": 6.185277777777777
+  },
+  {
+    "DeptNum": 55,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bar-le-Duc",
+    "DeptNom": "Meuse",
+    "LatDD": 48.77388888888889,
+    "LonDD": 5.158055555555555
+  },
+  {
+    "DeptNum": 56,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Vannes",
+    "DeptNom": "Morbihan",
+    "LatDD": 47.658055555555556,
+    "LonDD": -2.753611111111111
+  },
+  {
+    "DeptNum": 57,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Metz",
+    "DeptNom": "Moselle",
+    "LatDD": 49.1225,
+    "LonDD": 6.174722222222222
+  },
+  {
+    "DeptNum": 58,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Nevers",
+    "DeptNom": "Nièvre",
+    "LatDD": 46.99333333333333,
+    "LonDD": 3.163055555555556
+  },
+  {
+    "DeptNum": 59,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Lille",
+    "DeptNom": "Nord",
+    "LatDD": 50.632222222222225,
+    "LonDD": 3.059722222222222
+  },
+  {
+    "DeptNum": 60,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Beauvais",
+    "DeptNom": "Oise",
+    "LatDD": 49.440555555555555,
+    "LonDD": 2.076666666666667
+  },
+  {
+    "DeptNum": 61,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Alençon",
+    "DeptNom": "Orne",
+    "LatDD": 48.4325,
+    "LonDD": 0.091388888888889
+  },
+  {
+    "DeptNum": 62,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Arras",
+    "DeptNom": "Pas-de-Calais",
+    "LatDD": 50.29277777777778,
+    "LonDD": 2.764722222222222
+  },
+  {
+    "DeptNum": 63,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Clermont-Ferrand",
+    "DeptNom": "Puy-de-Dôme",
+    "LatDD": 45.77722222222222,
+    "LonDD": 3.084166666666667
+  },
+  {
+    "DeptNum": 64,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Pau",
+    "DeptNom": "Pyrénées-Atlantiques",
+    "LatDD": 43.29611111111111,
+    "LonDD": -0.369166666666667
+  },
+  {
+    "DeptNum": 65,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Tarbes",
+    "DeptNom": "Hautes-Pyrénées",
+    "LatDD": 43.23416666666667,
+    "LonDD": 0.068055555555556
+  },
+  {
+    "DeptNum": 66,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Perpignan",
+    "DeptNom": "Pyrénées-Orientales",
+    "LatDD": 42.7,
+    "LonDD": 2.893611111111111
+  },
+  {
+    "DeptNum": 67,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Strasbourg",
+    "DeptNom": "Bas-Rhin",
+    "LatDD": 48.58833333333333,
+    "LonDD": 7.755
+  },
+  {
+    "DeptNum": 68,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Colmar",
+    "DeptNom": "Haut-Rhin",
+    "LatDD": 48.07416666666666,
+    "LonDD": 7.351388888888889
+  },
+  {
+    "DeptNum": 69,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Lyon",
+    "DeptNom": "Rhône",
+    "LatDD": 45.76083333333333,
+    "LonDD": 4.843333333333334
+  },
+  {
+    "DeptNum": 70,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Vesoul",
+    "DeptNom": "Haute-Saône",
+    "LatDD": 47.623333333333335,
+    "LonDD": 6.1525
+  },
+  {
+    "DeptNum": 71,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Mâcon",
+    "DeptNom": "Saône-et-Loire",
+    "LatDD": 46.30699430384588,
+    "LonDD": 4.834704438023452
+  },
+  {
+    "DeptNum": 72,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Le Mans",
+    "DeptNom": "Sarthe",
+    "LatDD": 48.00083333333333,
+    "LonDD": 0.197222222222222
+  },
+  {
+    "DeptNum": 73,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Chambéry",
+    "DeptNom": "Savoie",
+    "LatDD": 45.564166666666665,
+    "LonDD": 5.918055555555556
+  },
+  {
+    "DeptNum": 74,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Annecy",
+    "DeptNom": "Haute-Savoie",
+    "LatDD": 45.9025,
+    "LonDD": 6.129722222222222
+  },
+  {
+    "DeptNum": 75,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Paris",
+    "DeptNom": "Paris",
+    "LatDD": 48.85629619044862,
+    "LonDD": 2.353280218702469
+  },
+  {
+    "DeptNum": 76,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Rouen",
+    "DeptNom": "Seine-Maritime",
+    "LatDD": 49.44611111111111,
+    "LonDD": 1.080833333333333
+  },
+  {
+    "DeptNum": 77,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Melun",
+    "DeptNom": "Seine-et-Marne",
+    "LatDD": 48.54055555555556,
+    "LonDD": 2.655
+  },
+  {
+    "DeptNum": 78,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Versailles",
+    "DeptNom": "Yvelines",
+    "LatDD": 48.8025,
+    "LonDD": 2.1325
+  },
+  {
+    "DeptNum": 79,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Niort",
+    "DeptNom": "Deux-Sèvres",
+    "LatDD": 46.325,
+    "LonDD": -0.465833333333333
+  },
+  {
+    "DeptNum": 80,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Amiens",
+    "DeptNom": "Somme",
+    "LatDD": 49.89055555555556,
+    "LonDD": 2.296388888888889
+  },
+  {
+    "DeptNum": 81,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Albi",
+    "DeptNom": "Tarn",
+    "LatDD": 43.928333333333335,
+    "LonDD": 2.146388888888889
+  },
+  {
+    "DeptNum": 82,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Montauban",
+    "DeptNom": "Tarn-et-Garonne",
+    "LatDD": 44.01583333333333,
+    "LonDD": 1.356388888888889
+  },
+  {
+    "DeptNum": 83,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Toulon",
+    "DeptNom": "Var",
+    "LatDD": 43.129444444444445,
+    "LonDD": 5.934166666666666
+  },
+  {
+    "DeptNum": 84,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Avignon",
+    "DeptNom": "Vaucluse",
+    "LatDD": 43.94833333333333,
+    "LonDD": 4.819166666666667
+  },
+  {
+    "DeptNum": 85,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "La Roche-sur-Yon",
+    "DeptNom": "Vendée",
+    "LatDD": 46.6675,
+    "LonDD": -1.428055555555556
+  },
+  {
+    "DeptNum": 86,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Poitiers",
+    "DeptNom": "Vienne",
+    "LatDD": 46.58083333333333,
+    "LonDD": 0.335833333333333
+  },
+  {
+    "DeptNum": 87,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Limoges",
+    "DeptNom": "Haute-Vienne",
+    "LatDD": 45.833333333333336,
+    "LonDD": 1.256944444444444
+  },
+  {
+    "DeptNum": 88,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Épinal",
+    "DeptNom": "Vosges",
+    "LatDD": 48.17027777777778,
+    "LonDD": 6.45
+  },
+  {
+    "DeptNum": 89,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Auxerre",
+    "DeptNom": "Yonne",
+    "LatDD": 47.79805555555556,
+    "LonDD": 3.572222222222222
+  },
+  {
+    "DeptNum": 90,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Belfort",
+    "DeptNom": "Territoire de Belfort",
+    "LatDD": 47.63824257338779,
+    "LonDD": 6.861370643049034
+  },
+  {
+    "DeptNum": 91,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Évry",
+    "DeptNom": "Essonne",
+    "LatDD": 48.62888888888889,
+    "LonDD": 2.435
+  },
+  {
+    "DeptNum": 92,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Nanterre",
+    "DeptNom": "Hauts-de-Seine",
+    "LatDD": 48.897222222222226,
+    "LonDD": 2.215833333333333
+  },
+  {
+    "DeptNum": 93,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Bobigny",
+    "DeptNom": "Seine-Saint-Denis",
+    "LatDD": 48.905277777777776,
+    "LonDD": 2.450277777777778
+  },
+  {
+    "DeptNum": 94,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Créteil",
+    "DeptNom": "Val-de-Marne",
+    "LatDD": 48.78194444444444,
+    "LonDD": 2.451388888888889
+  },
+  {
+    "DeptNum": 95,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Pontoise",
+    "DeptNom": "Val-d'Oise",
+    "LatDD": 49.03527777777778,
+    "LonDD": 2.077777777777778
+  },
+  {
+    "DeptNum": 971,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Basse-Terre",
+    "DeptNom": "Guadeloupe",
+    "LatDD": 15.9925,
+    "LonDD": -61.7225
+  },
+  {
+    "DeptNum": 972,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Fort-de-France",
+    "DeptNom": "Martinique",
+    "LatDD": 14.605833333333333,
+    "LonDD": -61.06777777777778
+  },
+  {
+    "DeptNum": 973,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Cayenne",
+    "DeptNom": "Guyane",
+    "LatDD": 4.9375,
+    "LonDD": -52.33222222222222
+  },
+  {
+    "DeptNum": 974,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Saint-Denis",
+    "DeptNom": "Réunion",
+    "LatDD": -20.875833333333333,
+    "LonDD": 55.44611111111111
+  },
+  {
+    "DeptNum": 976,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Mamoudzou",
+    "DeptNom": "Mayotte",
+    "LatDD": -12.775555555555556,
+    "LonDD": 45.229166666666664
+  },
+  {
+    "DeptNum": 977,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Marigot, Saint-Martin",
+    "DeptNom": "Saint-Barthélemy",
+    "LatDD": 18.07027777777778,
+    "LonDD": -63.084722222222226
+  },
+  {
+    "DeptNum": 978,
+    "Nom": "Hôtel de préfecture",
+    "Commune": "Marigot",
+    "DeptNom": "Saint-Martin",
+    "LatDD": 18.07027777777778,
+    "LonDD": -63.084722222222226
+  },
+  {
+    "DeptNum": 987,
+    "Nom": "Haut-commissariat de la République",
+    "Commune": "Papeete",
+    "DeptNom": "Polynésie française",
+    "LatDD": -17.544444444444444,
+    "LonDD": -149.56944444444446
+  },
+  {
+    "DeptNum": 988,
+    "Nom": "Haut-commissariat de la République",
+    "Commune": "Nouméa",
+    "DeptNom": "Nouvelle-Calédonie",
+    "LatDD": -22.268055555555556,
+    "LonDD": 166.44305555555556
+  }
+]
